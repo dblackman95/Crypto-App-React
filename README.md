@@ -8,13 +8,13 @@ Welcome to the Cryptocurrency App built in React! This application allows users 
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 
 ## Demo
-//Check out the live demo at [demo link](https://wordle-clone-04zv.onrender.com).
+Check out the live demo at [demo link](https://crypto-app-react-qknh.onrender.com/).
 
 ## Technologies
 - **React** - Frontend library for building user interfaces.
 - **CoinStats API** - CoinStats API information and documentation can be found [here](https://openapi.coinstats.app/).
 
-==============================================================================================================================================================================================================================
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Getting Started with Create React App
 
