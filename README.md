@@ -1,3 +1,21 @@
+# Crypto App
+
+Welcome to the Cryptocurrency App built in React! This application allows users to track the latest cryptocurrency prices in numerous currencies using the [CoinStats API](https://openapi.coinstats.app/). Whether you're an experienced trader or a casual investor, this app provides you with real-time data to help you make informed decisions.
+
+## Features
+- **Real-time Cryptocurrency Prices**: Get the latest prices for over 2500 cryptocurrencies.
+- **Search Functionality**: Quickly find specific cryptocurrencies.
+- **User-Friendly Interface**: Simple and intuitive design for easy navigation.
+
+## Demo
+//Check out the live demo at [demo link](https://wordle-clone-04zv.onrender.com).
+
+## Technologies
+- **React** - Frontend library for building user interfaces.
+- **CoinStats API** - CoinStats API information and documentation can be found [here](https://openapi.coinstats.app/).
+
+==============================================================================================================================================================================================================================
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
