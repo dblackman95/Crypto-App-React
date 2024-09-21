@@ -3,7 +3,7 @@
 Welcome to the Cryptocurrency App built in React! This application allows users to track the latest cryptocurrency prices in numerous currencies using the [CoinStats API](https://openapi.coinstats.app/). Whether you're an experienced trader or a casual investor, this app provides you with real-time data to help you make informed decisions.
 
 ## Features
-- **Real-time Cryptocurrency Prices**: Get the latest prices for over 2500 cryptocurrencies.
+- **Real-time Cryptocurrency Prices**: Get the latest prices for the most popular cryptocurrencies.
 - **Search Functionality**: Quickly find specific cryptocurrencies.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 
